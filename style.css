@@ -1,0 +1,65 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: white;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+ 
+  h3
+  {
+    color: white;
+  }
+
+  #l,#l2
+  {
+    background-color: darkcyan;
+  }
+  #l
+  {
+    background-color: white;
+    color: black;
+    
+  }
+
+  #g
+  {
+    color:yellow
+  }
+
+  p{
+   font-size: 30px;
+   font-weight: bold;
+  }
+
+  h1
+  {
+    width: 100%;
+    font-size: large;
+  }
+
+  div
+  {
+    font-size: 20px;
+  }
+
+  canvas
+  {
+    margin-top: 150px;
+    margin-left: 450px;
+  }
